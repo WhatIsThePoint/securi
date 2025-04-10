@@ -1,0 +1,5 @@
+
+Note: In a real project, you would need to add actual video files here:
+
+1. Create a file at public/videos/f1-background.mp4 which would be a racing video background
+2. For now, we're using a publicly available video from Codepen as a placeholder

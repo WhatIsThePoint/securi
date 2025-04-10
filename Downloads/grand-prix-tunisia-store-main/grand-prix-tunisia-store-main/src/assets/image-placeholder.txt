@@ -1,0 +1,5 @@
+
+Note: In a real project, you would need to add actual image files here:
+
+1. Create a file at public/images/carbon-fiber.png which would be a carbon fiber texture
+2. For now, we're using image URLs from Unsplash as placeholders for product images
